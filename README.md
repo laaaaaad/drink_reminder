@@ -22,7 +22,7 @@ python drink_reminder.py
 
 ### 方式二：运行打包后的 exe
 
-1. 双击 `dist\drink_reminder.exe` 启动
+1. 双击 `drink_reminder.exe` 启动
 2. 或双击 `start.vbs` 启动（无窗口后台运行）
 
 ### 开机自启动
